@@ -1,10 +1,10 @@
 ### Hadoop安装教程
 
-1. 下载hadoop-2.6.5.tar.gz
+1. 下载hadoop-2.7.6.tar.gz
 
 2. 解压
 
-   - 目录：D:\software\hadoop-2.6.5
+   - 目录：D:\software\hadoop-2.7.6
 
 3. 配置环境变量
 
