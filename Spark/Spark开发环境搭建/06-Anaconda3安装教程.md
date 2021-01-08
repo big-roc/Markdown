@@ -8,4 +8,3 @@
 4. 验证运行
    - conda list
    - python
-

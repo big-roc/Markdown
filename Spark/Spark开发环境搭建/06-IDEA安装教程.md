@@ -1,12 +1,12 @@
 ### IDEA安装教程
 
-1. 下载ideaIU-2019.2.2.exe
+1. 下载ideaIC-2019.2.4.exe
 2. 安装idea
    - 安装目录：D:\software\IntelliJ_IDEA2019
    - 勾选64-bit launcher
 3. 配置idea
    - 导入settings.zip，可以导出一份保存
-   - 激活idea：使用Activation code激活
+   - 激活idea：社区版不用激活
    - 安装scala插件：Configure --> Plugins --> Scala
    - 配置全局JDK和Library：Configure --> Project Settings
 4. settings配置
